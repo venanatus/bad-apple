@@ -5,7 +5,7 @@ How 2 run
 
 You can either `git clone` or download a ZIP of this repository. 
 
-`git clone https://github.com/CalvinLoke/bad-apple`
+`[git clone https://github.com/tihero10062002/bad-apple`
 
 Then, ensure that you set your terminal to the directory of this repository. 
 
